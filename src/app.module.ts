@@ -13,7 +13,7 @@ import { MailController } from './mail.controller';
 
         return {
           transport: {
-            host: `${login}.mailexam.ru`,
+            host: `${login}.mailexam.io`,
             port,
             secure: port === 465,
             auth: {
