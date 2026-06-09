@@ -152,6 +152,7 @@ For unit tests mock `MailerService` or use `transport: { jsonTransport: true }` 
 
 - [Mailexam NestJS guide (wiki)](https://wiki.mailexam.ru/en/examples/nest/)
 - [Hapi reference implementation](https://github.com/mailexam/Hapi) — another Node.js framework with Nodemailer
+- [Midway.js reference implementation](https://github.com/mailexam/Midway) — another Node.js framework with Nodemailer
 - [NestJS documentation](https://docs.nestjs.com/)
 - [@nestjs-modules/mailer](https://nest-modules.github.io/mailer/)
 - [Nodemailer documentation](https://nodemailer.com/)
