@@ -156,3 +156,7 @@ For unit tests mock `MailerService` or use `transport: { jsonTransport: true }` 
 - [NestJS documentation](https://docs.nestjs.com/)
 - [@nestjs-modules/mailer](https://nest-modules.github.io/mailer/)
 - [Nodemailer documentation](https://nodemailer.com/)
+
+## License
+
+Apache 2.0
